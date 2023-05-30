@@ -1,4 +1,4 @@
-# devry-team-resources
+# DeVry Team: Free Resources
 
 # Major Cloud Providers
 
