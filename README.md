@@ -82,3 +82,41 @@
 - [MarkUp](https://www.markup.io/) — MarkUp lets you collect feedback directly on top of your websites, PDFs and images.
 - [Notion](https://www.notion.so/) - Notion is a note-taking and collaboration application with markdown support that also integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.
 - [TeleType](https://teletype.oorja.io/) — share terminals, voice, code, whiteboard and more. no sign-in required, end-to-end encrypted collaboration for developers.
+
+# CMS
+
+
+# Code Generation
+
+
+# Code Quality
+
+
+# Code Search & Browsing
+
+
+# CI & CD
+
+
+# Testing
+
+
+# Security
+
+
+# Authentication, Authorization, User Management
+
+
+# Forms
+
+
+# Web Hosting
+
+
+# DNS
+
+
+# Domain
+
+
+# Design & UI
