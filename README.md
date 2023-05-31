@@ -122,7 +122,7 @@
 # Design & UI
 
 
-# Tutorials
+# Video Tutorials
 
 - [Build an E-commerce Application with NoSQL & React](https://www.youtube.com/watch?v=hx6r_BWmta0)
 - [Build Spring Applications with Spring Data and NoSQL](https://www.youtube.com/watch?v=EEICUyF_nVs)
