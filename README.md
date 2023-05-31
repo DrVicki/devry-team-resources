@@ -125,4 +125,23 @@
 # Tutorials
 
 - [Build an E-commerce Application with NoSQL & React](https://www.youtube.com/watch?v=hx6r_BWmta0)
+- [Build Spring Applications with Spring Data and NoSQL](https://www.youtube.com/watch?v=EEICUyF_nVs)
+- [Build a web3 NFT Explorer application over Ethereum blockchain](https://www.youtube.com/watch?v=SMkuJmuyps8)
+- [Intro to NoSQL with Apache Cassandra](https://www.youtube.com/watch?v=WFycRMLvMKc)
+- [Build a Clone of Good Reads with Spring Boot, Security and MVC](https://www.youtube.com/watch?v=e7rtfS-M9qM)
+- [Build a Netflix Clone with #GraphQL #React #Netlify and #NoSQL](https://www.youtube.com/watch?v=4t-2PNsJQsE)
+- [Build an eCommerce Website with Spring Boot and a NoSQL DB](https://www.youtube.com/watch?v=nzQzLtIJINk)
+- [Building your first app with Javascript and NodeJS](https://www.youtube.com/watch?v=lXM0-C6c9Dk)
+- [Build Scalable API-Based Microservices](https://www.youtube.com/watch?v=lf5ihmaHKa4)
+
+
+
+- [Recorded Live Workshops](https://www.youtube.com/watch?v=2451YCgzxVI&list=PL2g2h-wyI4SotOvatMLdrH06M8xPMkx5E&pp=iAQB)
+
+
+
+
+
+\
+
 
