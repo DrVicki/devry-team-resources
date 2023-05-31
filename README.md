@@ -120,3 +120,9 @@
 
 
 # Design & UI
+
+
+# Tutorials
+
+- [Build an E-commerce Application with NoSQL & React](https://www.youtube.com/watch?v=hx6r_BWmta0)
+
